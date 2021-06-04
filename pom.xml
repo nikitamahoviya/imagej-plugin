@@ -12,17 +12,17 @@
 		<relativePath />
 	</parent>
 
-	<groupId>com.mycompany</groupId>
-	<artifactId>Process_Pixels</artifactId>
+	<groupId>org.nrnb</groupId>
+	<artifactId>TrialPluginOne</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
-	<name>Process Pixels</name>
-	<description>A Maven project implementing an ImageJ 1.x plugin.</description>
-	<url>http://mycompany.com/imagej/process-pixels/</url>
-	<inceptionYear>2012</inceptionYear>
+	<name>Trial Plugin One</name>
+	<description>This is just a trial plugin for understanding.</description>
+	<url>https://github.com/nikitamahoviya</url>
+	<inceptionYear>2021</inceptionYear>
 	<organization>
-		<name>My Company</name>
-		<url>http://mycompany.com/</url>
+		<name>National Resource Of Network Biology</name>
+		<url>nrnb.org</url>
 	</organization>
 	<licenses>
 		<license>
@@ -32,10 +32,11 @@
 	</licenses>
 
 	<developers>
+		<!-- See https://imagej.net/Team -->
 		<developer>
-			<id>ctrueden</id>
-			<name>Curtis Rueden</name>
-			<url>https://imagej.net/User:Rueden</url>
+			<id>nikitamahoviya</id>
+			<name>Nikita Mahoviya</name>
+			<url>https://github.com/nikitamahoviya</url>
 			<roles>
 				<role>lead</role>
 				<role>developer</role>
@@ -48,33 +49,8 @@
 	</developers>
 	<contributors>
 		<contributor>
-			<name>Johannes Schindelin</name>
-			<url>https://imagej.net/User:Schindelin</url>
-			<roles><role>founder</role></roles>
-			<properties><id>dscho</id></properties>
-		</contributor>
-		<contributor>
-			<name>Olivier Burri</name>
-			<url>https://imagej.net/User:Oburri</url>
-			<properties><id>lacan</id></properties>
-		</contributor>
-		<contributor>
-			<name>Mark Hiner</name>
-			<url>https://imagej.net/User:Hinerm</url>
-			<properties><id>hinerm</id></properties>
-		</contributor>
-		<contributor>
-			<name>Jules Maselbas</name>
-		</contributor>
-		<contributor>
-			<name>Kota Miura</name>
-			<url>https://imagej.net/User:Miura</url>
-			<properties><id>miura</id></properties>
-		</contributor>
-		<contributor>
-			<name>Yili Zhao</name>
-			<url>https://imagej.net/User:Panovr</url>
-			<properties><id>panovr</id></properties>
+			<name>none</name>
+
 		</contributor>
 	</contributors>
 
